@@ -1,5 +1,6 @@
+El siguiente proyecto se realizo dentro del botcamp de Tripleten el cual esta relacionado a pruebas de APIs para agregar productos en un kit
 
-![image alt](https://github.com/Nemechek/Proyecto-APIs/blob/7be7a45763d6aa4230c450d1e256361c1d1fc3fe/ejemplo%202.png)
+les dejo un ejemplo de las pruebas realizadas la cual fue cuando se agregan varios números a la cantidad de producto.
 
 {
     "productsList": [
@@ -9,3 +10,7 @@
         }
     ]
 }
+
+En la pruebas se utilizo un URL de servidor y un endpoint con un ":id" para selecionar en el mismo URL el id del producto que se agregaria, en esta prueba se tiene en cuenta que dentro del kit tiene un limite de 20 productos
+porlotanto no se puede agregar mas de esta cantidad siendo parte de las pruebas que se hicieron, posterior se probo que no se pudieran agregar tanto en el id del URL y del codigo como a la cantidad: letras, letras con números, string vacio, caracteres especiales y varios números juntos 
+Al terminar con las pruebas se hicieron los debidos reportes de error en Jira.
