@@ -17,3 +17,5 @@ por lo tanto no se puede agregar mas de esta cantidad siendo parte de las prueba
 letras, letras con números, string vacio, caracteres especiales y varios números juntos.
 
 Al terminar con las pruebas se hicieron los debidos reportes de error en Jira.
+
+Herramientas usadas: Jira, Postman, APIs y Testing manual.
