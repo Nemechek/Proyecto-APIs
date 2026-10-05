@@ -1,6 +1,6 @@
-Proyecto de Pruebas de API | QA Manual y Automatización
+# Proyecto de Pruebas de API | QA Manual y Automatización
 
-¡Hola! Mi nombre es Ismael Camargo Sanches.
+¡Hola! Mi nombre es Ismael Camargo Sánches.
 
 QA Engineer | API Testing | Quality First | Interfaces QA | Dashboards de Testing | Jira | Postman | Test Case Design & Bugs
 
